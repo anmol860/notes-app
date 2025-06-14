@@ -29,6 +29,7 @@
             class="bg-blue-500 text-white px-4 py-2 rounded">
             Add Note
         </button>
+    </form>
         
 
         <ul class=space-y-4>
